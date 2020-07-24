@@ -2,7 +2,7 @@
 
 ## Sandro Frazao Specht
 
-Exercicios referente ao curso de Desenvolvimento Web deHTML5 com CSS3 - Site da Pizzaria. Executado na udemy.com.br e imediabrasil.com.br
+Exercicios referente ao curso de Desenvolvimento Web de HTML5 com CSS3 - Site da Pizzaria. Executado na udemy.com.br e imediabrasil.com.br
 
 ## Nome do Projeto
 Site Pizzaria PF
